@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AddController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="33" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="475">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
               <folding>
                 <element signature="e#40#53#0#PHP" expanded="true" />
               </folding>
@@ -175,6 +175,7 @@
     <option name="width" value="974" />
     <option name="height" value="555" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -213,6 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../diplom" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -258,12 +260,12 @@
       <workItem from="1562755063351" duration="6891000" />
       <workItem from="1563127217441" duration="28804000" />
       <workItem from="1563521686810" duration="8418000" />
-      <workItem from="1563957478021" duration="2803000" />
+      <workItem from="1563957478021" duration="3405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63539000" />
+    <option name="totallyTimeSpent" value="64141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -457,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AddController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="33" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="475">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
           <folding>
             <element signature="e#40#53#0#PHP" expanded="true" />
           </folding>
