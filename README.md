@@ -1,2 +1,2 @@
 # ToDo-list
-To do list using Laravel and Ajax
+To do list with CRUD using Laravel and Ajax
